@@ -1,4 +1,4 @@
-package com.akshitiz.playground.utilities;
+package com.akshitiz.playground.questions.collections;
 
 import com.akshitiz.playground.pojos.Charge;
 import com.akshitiz.playground.pojos.Claim;

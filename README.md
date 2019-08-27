@@ -1,2 +1,2 @@
 # Playground
-contains my usual tryst with Java codes
+Contains my usual tryst with Java codes
